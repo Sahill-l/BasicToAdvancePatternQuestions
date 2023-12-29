@@ -1,8 +1,10 @@
-import java.util.Scanner;
+// **********
+// **********
+// **********
+// **********
 
 public class Main {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
         int row =4;
         int col=10;
 
