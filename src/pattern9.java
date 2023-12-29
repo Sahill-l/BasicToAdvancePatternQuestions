@@ -1,3 +1,10 @@
+// 1
+// 01
+// 101
+// 0101
+// 10101
+
+
 public class pattern9 {
     public static void main(String[] args) {
         int row=5;
