@@ -1,3 +1,9 @@
+// 12345
+// 1234
+// 123
+// 12
+// 1
+
 public class pattern7 {
     public static void main(String[] args) {
         int row=5;
