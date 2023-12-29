@@ -1,3 +1,10 @@
+//     1
+//    212
+//   32123
+//  4321234
+// 543212345
+
+
 public class pattern13 {
     public static void main(String[] args) {
         int row=5;
