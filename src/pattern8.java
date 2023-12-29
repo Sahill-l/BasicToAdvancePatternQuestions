@@ -1,3 +1,8 @@
+// 1
+// 23
+// 456
+// 78910
+
 public class pattern8 {
     public static void main(String[] args) {
         int row=5;
